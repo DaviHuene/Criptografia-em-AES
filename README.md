@@ -18,3 +18,5 @@ Este é um simples script em Python para demonstrar a criptografia e descriptogr
 
 4. **Execução:**
    - O código é executado quando o script é chamado como
+![cript py - python-main - Visual Studio Code 30_11_2023 16_53_37](https://github.com/DaviHuene/Criptografia-em-AES/assets/134159546/ae90d1b3-b64a-451b-a0c1-66b4c53b98ca)
+![cript py - python-main - Visual Studio Code 30_11_2023 16_53_43](https://github.com/DaviHuene/Criptografia-em-AES/assets/134159546/49d0f43b-ecbd-4b09-975f-19ffd4b80ca3)
